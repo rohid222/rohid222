@@ -24,8 +24,8 @@
 
 | Tecnologia | Livello |
 |---|---|
-| 🟨 JavaScript | ⭐⭐⭐ |
-| 🟢 Node.js | ⭐⭐⭐ |
+| 🟨 JavaScript | ⭐⭐ |
+| 🟢 Node.js | ⭐⭐ |
 | ☕ Java | ⭐ |
 | 🔵 C | ⭐ |
 | 🌐 HTML & CSS | ⭐⭐|
