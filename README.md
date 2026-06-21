@@ -22,16 +22,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,js,java,c,html,css,kotlin" />
 </p>
 
-| Tecnologia | Livello |
-|---|---|
-| 🟨 JavaScript | ⭐⭐ |
-| 🟢 Node.js | ⭐⭐ |
-| ☕ Java | ⭐ |
-| 🔵 C | ⭐ |
-| 🌐 HTML & CSS | ⭐⭐|
-| 🟣 Kotlin | 📖 In apprendimento |
-
----
 
 ### 📊 Statistiche GitHub
 
